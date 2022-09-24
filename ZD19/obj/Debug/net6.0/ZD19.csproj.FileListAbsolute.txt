@@ -1,0 +1,15 @@
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\bin\Debug\net6.0\ZD19.exe
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\bin\Debug\net6.0\ZD19.deps.json
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\bin\Debug\net6.0\ZD19.runtimeconfig.json
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\bin\Debug\net6.0\ZD19.dll
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\bin\Debug\net6.0\ZD19.pdb
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.csproj.AssemblyReference.cache
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.AssemblyInfoInputs.cache
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.AssemblyInfo.cs
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.csproj.CoreCompileInputs.cache
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.dll
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\refint\ZD19.dll
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.pdb
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ZD19.genruntimeconfig.cache
+D:\GeekBrains\DZ\DZ_3\Sem3_DZ\ZD19\obj\Debug\net6.0\ref\ZD19.dll
